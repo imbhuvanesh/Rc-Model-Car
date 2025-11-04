@@ -16,6 +16,4 @@ Core Logic:
 
 Upgrades: Add sensors for obstacle detection, IoT control, or camera module for live streaming.
 
-Made by: Bhuvanesh — Engineering Student
-🔗 GitHub
- | LinkedIn
+Made by: Bhuvanesh and Team — Engineering Students
